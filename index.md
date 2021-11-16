@@ -2,5 +2,5 @@
 #layout: <h1>default
 ---
 
-{% include 01-name.md %}
+##<h2>{% include 01-name.md %}
 
